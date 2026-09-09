@@ -24,9 +24,9 @@ Este repositório documenta meu aprendizado sobre Docker e containerização.
 ## Status do Estudo
 - [✅] Tarefa 1 - Primeiro container
 - [✅] Tarefa 2 - Container personalizado
-- [✅ ] Tarefa 3 - Banco de dados
-- [✅ ] Tarefa 4 - Docker Compose
-- [✅ ] Tarefa 5 - Aplicação completa
+- [✅] Tarefa 3 - Banco de dados
+- [✅] Tarefa 4 - Docker Compose
+- [✅] Tarefa 5 - Aplicação completa
 
 ## 🧐 Reflexão Final
 
